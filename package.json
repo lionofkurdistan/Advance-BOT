@@ -12,7 +12,7 @@
     "anime-scraper": "^3.1.1",
     "app-store-scraper": "^0.16.3",
     "ascii-table": "0.0.9",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "beautify": "^0.0.8",
     "body-parser": "^1.19.0",
     "booru": "^2.4.0",
